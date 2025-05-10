@@ -13,12 +13,3 @@ Read recipient and message data from a file or database (optional)
 Exception handling and logging for troubleshooting
 
 Easy to configure via a properties file
-
-🛠️ Tech Stack
-Java
-
-JavaMail API
-
-Maven (or Gradle)
-
-Properties file for configuration
