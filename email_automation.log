@@ -1,0 +1,29 @@
+2025-04-25 17:13:46,973 - INFO - Email automation started... Press Ctrl+C to stop.
+2025-04-25 17:14:45,035 - INFO - Email automation stopped.
+2025-04-25 17:17:17,115 - INFO - Email automation started... Press Ctrl+C to stop.
+2025-04-25 17:18:07,480 - ERROR - Failed to send email to nikhilchoudhary8929@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-22db521a52fsm30058835ad.244 - gsmtp')
+2025-04-25 17:20:36,659 - INFO - Email automation started... Press Ctrl+C to stop.
+2025-04-25 17:21:06,109 - ERROR - Failed to send email to nikhilchoudhary8929@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-73e25912ee5sm2978997b3a.33 - gsmtp')
+2025-04-25 17:22:17,155 - INFO - Email automation started... Press Ctrl+C to stop.
+2025-04-25 17:23:06,400 - INFO - Email sent successfully to nikhilchoudhary8929@gmail.com
+2025-04-27 18:08:05,216 - INFO - Email automation started... Press Ctrl+C to stop.
+2025-04-27 18:08:13,901 - INFO - Email automation stopped.
+2025-04-29 11:45:56,818 - INFO - Email automation started... Press Ctrl+C to stop.
+2025-04-29 11:46:36,191 - INFO - Email automation stopped.
+2025-04-29 11:46:39,417 - INFO - Email automation started... Press Ctrl+C to stop.
+2025-04-29 11:47:32,867 - INFO - Email automation started... Press Ctrl+C to stop.
+2025-04-29 11:48:59,729 - INFO - Email automation started... Press Ctrl+C to stop.
+2025-04-29 11:49:12,890 - INFO - Email automation stopped.
+2025-04-29 11:50:22,252 - INFO - Email automation started... Press Ctrl+C to stop.
+2025-04-29 11:51:06,174 - INFO - Email sent successfully to nikhilchoudhary8929@gmail.com
+2025-04-29 11:51:40,577 - INFO - Email automation stopped.
+2025-04-29 11:52:41,395 - INFO - Email automation started... Press Ctrl+C to stop.
+2025-04-29 11:52:41,396 - INFO - Email automation started
+2025-04-29 11:55:24,983 - INFO - Email automation started... Press Ctrl+C to stop.
+2025-04-29 11:56:09,001 - INFO - Email automation stopped.
+2025-04-29 11:59:32,349 - INFO - Email automation started... Press Ctrl+C to stop.
+2025-04-29 12:00:06,759 - INFO - Email sent successfully to nikhilchoudhary8929@gmail.com
+2025-04-30 09:50:16,555 - INFO - Email automation started... Press Ctrl+C to stop.
+2025-04-30 09:51:09,248 - INFO - Email sent successfully to nikhilchoudhary8929@gmail.com
+2025-04-30 09:51:15,290 - INFO - Email sent successfully to singhaltwinkle20@gmail.com
+2025-04-30 09:54:59,784 - INFO - Email automation stopped.
